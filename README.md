@@ -1,3 +1,3 @@
 # e-commerceFullstack
 
-projeto para praticar meus conhecimentos em java spring
+projeto para praticar meus conhecimentos em java spring,estou iniciando então deve ter muitos erros,vou arrumar todos

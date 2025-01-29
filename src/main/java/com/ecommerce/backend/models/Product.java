@@ -19,5 +19,5 @@ public class Product {
 
     private int stockQuantity;
 
-    //getters e setters
+    
 }
